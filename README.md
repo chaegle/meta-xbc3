@@ -13,6 +13,8 @@ of serial operation) file.
 
 These files are only necessary if/when using the modem in 'USB Direct' mode.
 
+NOTE: This meta is not required when working with DEY-2.6 (Thud).
+
 SUPPORTED EMBEDDED PLATFORMS
 ----------------------------
 
